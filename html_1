@@ -1,0 +1,19 @@
+If WE start the code then we press "!" toget this in the code !!!!!
+
+#HTML_1
+
+<!DOCTYPE html>
+<!-- Our HTML code starts here -->
+<html lang="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html_first_code</title>
+</head>
+<body>
+    first_code
+</body>
+</html>
+
+
+
